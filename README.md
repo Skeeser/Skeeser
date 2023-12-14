@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <a href="https://github.com/Skeeser/github-readme-stats">
   <p>
-    <img height="200em" img align="center" src="https://github-readme-stats.vercel.app/api?username=Skeeser&show_icons=true" />
+    <img height="200em" img align="center" src="https://github-readme-stats.vercel.app/api?username=Skeeser&include_all_commits=true&count_private=true" alt="keeser's Github stats"/>
     <img height="200em" img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Skeeser&layout=compact" alt="Top Langs" />
   </p>
 </a>
